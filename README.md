@@ -1,2 +1,2 @@
-# Cookin-App
+# Cooking-App
 Cooking Recipe
